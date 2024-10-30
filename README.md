@@ -1,10 +1,9 @@
-# Welcome to OpenRec!
+# Welcome to RebornRec!
 ---
-OpenRec is a RecRoom server software made by recroom2016!
+RebornRec is a RecRoom server software made by june_x3!
 
 ### Branches
  - Master / main
- - Nightly
 
 The master branch is the public branch where all the latest updates are published.
 The nightly branch is where all the experimental updates that are needed to be tested before release are.
@@ -14,4 +13,4 @@ The nightly branch is where all the experimental updates that are needed to be t
 ### Getting in contact with the community
 
 If you are new to this we recommend you joining our Discord!
-Link: https://discord.com/invite/daC8QUhnFP
+Link: https://discord.com/invite/yWBNpcAQTf
