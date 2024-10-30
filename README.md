@@ -6,7 +6,6 @@ RebornRec is a RecRoom server software made by june_x3!
  - Master / main
 
 The master branch is the public branch where all the latest updates are published.
-The nightly branch is where all the experimental updates that are needed to be tested before release are.
 
 ---
 
