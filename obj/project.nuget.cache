@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gY9tIX6+FNc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cmont\\Downloads\\RebornRec\\RebornRec.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmont\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

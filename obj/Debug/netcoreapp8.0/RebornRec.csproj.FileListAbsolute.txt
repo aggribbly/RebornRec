@@ -1,0 +1,16 @@
+C:\Users\cmont\Downloads\RebornRec\obj\Debug\netcoreapp8.0\RebornRec.csproj.AssemblyReference.cache
+C:\Users\cmont\Downloads\RebornRec\obj\Debug\netcoreapp8.0\RebornRec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmont\Downloads\RebornRec\obj\Debug\netcoreapp8.0\RebornRec.csproj.CoreCompileInputs.cache
+C:\Users\cmont\Downloads\RebornRec\bin\Debug\netcoreapp8.0\RebornRec.exe
+C:\Users\cmont\Downloads\RebornRec\bin\Debug\netcoreapp8.0\RebornRec.deps.json
+C:\Users\cmont\Downloads\RebornRec\bin\Debug\netcoreapp8.0\RebornRec.runtimeconfig.json
+C:\Users\cmont\Downloads\RebornRec\bin\Debug\netcoreapp8.0\RebornRec.dll
+C:\Users\cmont\Downloads\RebornRec\bin\Debug\netcoreapp8.0\RebornRec.pdb
+C:\Users\cmont\Downloads\RebornRec\bin\Debug\netcoreapp8.0\Newtonsoft.Json.dll
+C:\Users\cmont\Downloads\RebornRec\bin\Debug\netcoreapp8.0\websocket-sharp.dll
+C:\Users\cmont\Downloads\RebornRec\obj\Debug\netcoreapp8.0\RebornRec.csproj.Up2Date
+C:\Users\cmont\Downloads\RebornRec\obj\Debug\netcoreapp8.0\RebornRec.dll
+C:\Users\cmont\Downloads\RebornRec\obj\Debug\netcoreapp8.0\refint\RebornRec.dll
+C:\Users\cmont\Downloads\RebornRec\obj\Debug\netcoreapp8.0\RebornRec.pdb
+C:\Users\cmont\Downloads\RebornRec\obj\Debug\netcoreapp8.0\RebornRec.genruntimeconfig.cache
+C:\Users\cmont\Downloads\RebornRec\obj\Debug\netcoreapp8.0\ref\RebornRec.dll
